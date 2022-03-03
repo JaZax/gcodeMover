@@ -37,13 +37,3 @@ root.bind("<Button-1>", click)
 
 root.mainloop()
 
-
-
-
-
-#ser = serial.Serial('COM5', 115200)
-#time.sleep(2)
-#command(ser, )
-
-#time.sleep(2)
-#ser.close()
